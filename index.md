@@ -1,54 +1,109 @@
-Last updated: 18 November 2026
+# VORTEX: OVERDRIVE
+## Privacy Policy
 
-VORTEX: OVERDRIVE is a virtual reality game developed independently for Meta Quest.
+**Last updated: 18 November 2026**
 
-This Privacy Policy explains how the game handles information when you play.
-VORTEX: OVERDRIVE does not require an account or registration.
+VORTEX: OVERDRIVE is a virtual reality game developed independently by Kieran Roberts for Meta Quest.
 
-The developer does not collect players' names, email addresses, Meta account details, contacts, location information or advertising identifiers through the game.
+This Privacy Policy explains what information the game processes, how it is used, and what information may be shared with third-party platform providers.
+
+### 1. Personal Information
+
+VORTEX: OVERDRIVE does not require players to create an account or register with the developer.
+
+The developer does not directly collect names, email addresses, Meta account details, contacts, location information, device identifiers or advertising identifiers.
 
 The game does not contain advertisements, in-app purchases or developer-operated analytics services.
-VORTEX: OVERDRIVE uses Meta Quest hand and head tracking to support gameplay, movement controls, interactions and seated VR positioning.
 
-Tracking information is processed in real time on your headset. The game does not record, permanently store or transmit raw hand or head tracking information to the developer or external game servers.
-The game saves information locally on your headset, including:
-- Game progression, currency, collectibles and rewards.
-- Unlocked cards, cosmetics and equipment configurations.
-- Tutorial completion and practice records.
+### 2. Hand and Head Tracking
+
+VORTEX: OVERDRIVE uses Meta Quest hand and head tracking to provide gameplay interactions, movement controls, menu navigation and seated VR positioning.
+
+Hand and head tracking information is processed in real time on the headset.
+
+The game does not deliberately record, permanently store or transmit raw hand or head tracking information to the developer or external game servers.
+
+### 3. Locally Stored Game Data
+
+The game stores certain information locally on your headset to maintain progress and preferences.
+
+This includes:
+
+- Game progress, levels, coins, gems and collectible rewards.
+- Owned cards, cosmetic items and equipment configurations.
+- Deck configurations and equipped customisations.
+- Tutorial progress, practice records and Chronicle rewards.
 - Audio, visual, accessibility and comfort settings.
-- Limited technical and performance diagnostic logs.
-This information is used to maintain your progress, remember your preferences and support the game's operation.
+- Limited technical diagnostic information, including performance logs and occasional steering diagnostics.
 
-The developer does not have remote access to this information.
+This information is stored within the application's local storage.
 
-Uninstalling the game removes its locally stored application data through the headset's normal app-management process.
-VORTEX: OVERDRIVE includes Meta's Interaction SDK, which may transmit certain technical usage information to Meta, such as session duration and SDK interaction events.
+The developer does not operate a remote database containing this information and cannot retrieve it remotely.
 
-This information is handled by Meta through its own systems and applicable privacy controls.
+### 4. Meta SDK Telemetry
 
-For more information, please see [Meta's Privacy Policy](https://www.meta.com/legal/privacy-policy/).
-VORTEX: OVERDRIVE uses Unity and Meta XR technologies to provide its VR functionality.
+VORTEX: OVERDRIVE includes Meta's Interaction SDK.
 
-The developer has not enabled Unity Analytics, Unity Cloud Diagnostics, advertising services or purchasing services.
+This SDK may transmit technical usage information directly to Meta, including session duration and SDK interaction events.
 
-The game does not operate its own online accounts, multiplayer servers or cloud storage.
-The developer does not sell player information or share locally saved game progress with advertisers or other third parties.
+This information is processed through Meta's own systems and applicable privacy controls.
 
-Certain SDK usage information may be transmitted directly to Meta as described above.
-Game progress, preferences and locally generated diagnostic files are stored on the headset for as long as the application retains its local data.
+For more information about Meta's handling of information, please visit:
 
-Players can remove this information by uninstalling VORTEX: OVERDRIVE and deleting its associated application data through the headset's settings.
+https://www.meta.com/legal/privacy-policy/
 
-The developer does not maintain a separate database of player information and therefore cannot remotely access or delete locally stored records.
+### 5. Third-Party Services
 
-For information held directly by Meta, please refer to Meta's privacy controls and policies.
+VORTEX: OVERDRIVE uses Unity and Meta XR technologies to provide its virtual reality functionality.
+
+The developer has not enabled Unity Analytics, Unity Cloud Diagnostics, Unity Ads or Unity Purchasing.
+
+The current version of the game does not operate multiplayer servers, online accounts or cloud-based save systems.
+
+Third-party platform providers may process technical or device information independently under their own privacy policies.
+
+### 6. Data Sharing
+
+The developer does not sell player information or share locally saved game progress with advertisers.
+
+The game does not transmit saved progress or customisation information to developer-operated servers.
+
+Meta SDK telemetry may be transmitted directly to Meta as described in Section 4.
+
+### 7. Data Retention and Deletion
+
+Game progress, settings and local diagnostic files remain on the headset while the application retains its local data.
+
+Players can remove locally stored game information by uninstalling VORTEX: OVERDRIVE and deleting associated application data through their headset's settings.
+
+The developer does not maintain a separate player database and therefore cannot remotely access or delete locally stored game information.
+
+Information collected independently by Meta is subject to Meta's own data retention and deletion policies.
+
+### 8. Children's Privacy
+
 VORTEX: OVERDRIVE is intended for users aged 13 and over, or the applicable minimum age in their region.
 
-The developer does not knowingly collect children's personal information.
-This Privacy Policy may be updated as the game develops, particularly if features such as multiplayer, online accounts or cloud services are introduced.
+The developer does not knowingly collect personal information from children through the game.
 
-Any material changes to the game's data practices will be reflected in an updated policy.
-For questions about this Privacy Policy or how VORTEX: OVERDRIVE handles data, contact:
+### 9. Future Features
 
-Developer: Kieran Roberts Technologies Ltd
-Email: kieran@krt-solutions.co.uk
+Future versions of VORTEX: OVERDRIVE may introduce multiplayer, online matchmaking, player profiles, leaderboards or other connected features.
+
+If these features introduce new data collection or processing activities, this Privacy Policy will be updated before those features become available.
+
+### 10. Changes to This Privacy Policy
+
+This policy may be updated to reflect changes to the game, its features, third-party services or applicable privacy requirements.
+
+The latest version will be published at this address with an updated revision date.
+
+### 11. Contact
+
+For questions about this Privacy Policy or the game's handling of information, please contact:
+
+**Developer:** Kieran Roberts  
+**Game:** VORTEX: OVERDRIVE  
+**Contact email:** kieran@krt-solutions.co.uk
+
+**Copyright © 2026 Kieran Roberts.**
